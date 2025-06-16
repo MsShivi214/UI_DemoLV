@@ -105,30 +105,5 @@ If you encounter issues:
 3. Check that uploaded images are in supported formats
 4. Ensure Python and pip are up to date
 
-## License
 
-[Your chosen license]
 
-## Author
-
-[Your name/organization]
-```
-
-This README provides a comprehensive guide to the project, including:
-- Project overview and features
-- Installation instructions
-- Usage guide
-- Project structure
-- Model information
-- Error handling
-- Customization options
-- Troubleshooting tips
-
-You can customize this README by:
-1. Adding your specific license information
-2. Including your name or organization
-3. Adding any specific requirements or notes for your environment
-4. Modifying the project structure if it differs
-5. Adding any additional features or limitations specific to your implementation
-
-Would you like me to modify any section of this README or add additional information?
